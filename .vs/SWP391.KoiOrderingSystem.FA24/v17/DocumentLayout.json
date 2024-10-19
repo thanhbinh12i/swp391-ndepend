@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\swp391-ndepend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C1F93A7-0CF7-48E8-8B1D-7277C5984A09}|Project_SWP391\\Project_SWP391.csproj|d:\\swp391-ndepend\\project_swp391\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1F93A7-0CF7-48E8-8B1D-7277C5984A09}|Project_SWP391\\Project_SWP391.csproj|solutionrelative:project_swp391\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C1F93A7-0CF7-48E8-8B1D-7277C5984A09}|Project_SWP391\\Project_SWP391.csproj|d:\\swp391-ndepend\\project_swp391\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C1F93A7-0CF7-48E8-8B1D-7277C5984A09}|Project_SWP391\\Project_SWP391.csproj|solutionrelative:project_swp391\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\swp391-ndepend\\Project_SWP391\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Project_SWP391\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\swp391-ndepend\\Project_SWP391\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Project_SWP391\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:55:17.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\swp391-ndepend\\Project_SWP391\\Program.cs",
               "RelativeDocumentMoniker": "Project_SWP391\\Program.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\swp391-ndepend\\Project_SWP391\\appsettings.json",
               "RelativeDocumentMoniker": "Project_SWP391\\appsettings.json",
@@ -67,8 +84,7 @@
               "RelativeToolTip": "Project_SWP391\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-19T05:42:13.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T05:42:13.316Z"
             }
           ]
         },
